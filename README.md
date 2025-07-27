@@ -23,3 +23,10 @@ git clone https://github.com/thevishalmisra/money-management
 cd money-management
 npm install
 npm run dev
+```
+## 📌 Voice Commands Example
+“Add expense for groceries 500”
+
+“Add income from freelance 2000”
+
+The app uses the Web Speech API to detect commands and extract transaction data.
